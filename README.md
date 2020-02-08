@@ -15,6 +15,7 @@ Take webcam shots from target just sending a malicious link
 ```
 git clone git@github.com:Dharmokdk/okdk.git
 cd okdk
+chmod +x *
 bash okdk.sh
 ```
 
