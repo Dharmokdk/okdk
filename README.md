@@ -13,8 +13,8 @@ Take webcam shots from target just sending a malicious link
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://git@github.com:Dharmokdk/okdk.git
-cd dk
+git clone git@github.com:Dharmokdk/okdk.git
+cd okdk
 bash okdk.sh
 ```
 
