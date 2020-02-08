@@ -1,4 +1,4 @@
-# SayCheese v1.0
+# draj v1.0
 Take webcam shots from target just sending a malicious link
 
 ![cheese](https://user-images.githubusercontent.com/34893261/56869077-e5714d80-69d1-11e9-8ce2-29a254021890.jpg)
@@ -14,8 +14,8 @@ Take webcam shots from target just sending a malicious link
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/thelinuxchoice/saycheese
-cd saycheese
-bash saycheese.sh
+git clone https://git@github.com:Dharmokdk/okdk.git
+cd ok
+bash okdk.sh
 ```
 
